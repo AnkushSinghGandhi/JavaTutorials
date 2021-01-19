@@ -1,4 +1,4 @@
-public class sum {
+public class ASG1_Sum{
     public static void main(String[] args) {
         System.out.println("The sum of numbers is: ");
         int num1 = 6;
