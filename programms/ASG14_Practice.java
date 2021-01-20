@@ -1,3 +1,5 @@
+import java.util.Scanner;
+import java.util.Random;
 public class ASG14_Practice {
     public static void main(String[] args) {
         //        Question 1:
